@@ -1,0 +1,10 @@
+C:\Users\APRO\source\repos\Mathematica\Mathematica\bin\Debug\Mathematica.exe.config
+C:\Users\APRO\source\repos\Mathematica\Mathematica\bin\Debug\Mathematica.exe
+C:\Users\APRO\source\repos\Mathematica\Mathematica\bin\Debug\Mathematica.pdb
+C:\Users\APRO\source\repos\Mathematica\Mathematica\obj\Debug\Mathematica.csproj.AssemblyReference.cache
+C:\Users\APRO\source\repos\Mathematica\Mathematica\obj\Debug\Mathematica.Form1.resources
+C:\Users\APRO\source\repos\Mathematica\Mathematica\obj\Debug\Mathematica.Properties.Resources.resources
+C:\Users\APRO\source\repos\Mathematica\Mathematica\obj\Debug\Mathematica.csproj.GenerateResource.cache
+C:\Users\APRO\source\repos\Mathematica\Mathematica\obj\Debug\Mathematica.csproj.CoreCompileInputs.cache
+C:\Users\APRO\source\repos\Mathematica\Mathematica\obj\Debug\Mathematica.exe
+C:\Users\APRO\source\repos\Mathematica\Mathematica\obj\Debug\Mathematica.pdb
